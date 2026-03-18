@@ -14,3 +14,19 @@ C:\Users\1ap\source\repos\Timer and Stopper\Timer and Stopper\obj\Debug\net8.0-w
 C:\Users\1ap\source\repos\Timer and Stopper\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.pdb
 C:\Users\1ap\source\repos\Timer and Stopper\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.genruntimeconfig.cache
 C:\Users\1ap\source\repos\Timer and Stopper\Timer and Stopper\obj\Debug\net8.0-windows\ref\Timer and Stopper.dll
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\bin\Debug\net8.0-windows\Timer and Stopper.exe
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\bin\Debug\net8.0-windows\Timer and Stopper.deps.json
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\bin\Debug\net8.0-windows\Timer and Stopper.runtimeconfig.json
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\bin\Debug\net8.0-windows\Timer and Stopper.dll
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\bin\Debug\net8.0-windows\Timer and Stopper.pdb
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer_and_Stopper.Form1.resources
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.csproj.GenerateResource.cache
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.AssemblyInfoInputs.cache
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.AssemblyInfo.cs
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.csproj.CoreCompileInputs.cache
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.dll
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\refint\Timer and Stopper.dll
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.pdb
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\Timer and Stopper.genruntimeconfig.cache
+C:\Users\szymo\Desktop\Timer-and-Stopper-main\Timer and Stopper\obj\Debug\net8.0-windows\ref\Timer and Stopper.dll
